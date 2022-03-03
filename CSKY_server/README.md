@@ -2,9 +2,6 @@
 
 [<img src="https://gitee.com/SHU-Silence/drawing-bed/raw/master/img/logo.png" alt="logo"  />](http://47.100.249.168:8989/#/home)
 
-[![GitHub CI](https://github.com/SHU-Silence/CSKY/workflows/CI/badge.svg)](https://github.com/SHU-Silence/CSKY/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush)
-[![Downloads](https://img.shields.io/github/downloads/SHU-Silence/CSKY/total.svg?maxAge=2592001)](https://github.com/SHU-Silence/CSKY/releases/)
-
 
 
 
