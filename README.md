@@ -38,6 +38,10 @@
 2. 近三年分数线信息
 3. 师资介绍
 
+![school](https://gitee.com/SHU-Silence/drawing-bed/raw/master/img/school.png)
+
+
+
 ## 考研时间线
 
 ![image-20220301213519919](https://gitee.com/SHU-Silence/drawing-bed/raw/master/img/image-20220301213519919.png)
