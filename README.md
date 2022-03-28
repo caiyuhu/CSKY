@@ -20,7 +20,7 @@
 
 作为展示页面，展示了招生公告、研招新闻、报考指南、研招答疑、考研大纲等文章简略信息。
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/image-20220301213357080.png" alt="image-20220301213357080" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/kaoyan.png" alt="kaoyan" style="zoom:50%;" />
 
 ## 用户注册登陆界面
 
