@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to CSKY 👋</h1>
 
-[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/logo.png" alt="logo" style="zoom: 80%;" />](http://itbear666.top:8989/#/home)
+[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/logo.png" alt="logo" style="zoom: 80%;" />](http://blog.itbear666.top:8989/#/home)
 
 
 > 2021-2022 学年冬季学期《Java程序设计(实践)》大作业 --->>> **CSKY (CS考研，计算机考研网)**
@@ -9,7 +9,7 @@
 
 本项目为前后端分离项目，前端采用Vue框架，UI采用element-UI,后端采用Springboot整合SSM，并采用Mybatis Plus简化CRUD操作。数据部分通过爬取获得。
 
-### ✨ [演示地址(Click Me!)](http://itbear666.top:8989/#/home)
+### ✨ [演示地址(Click Me!)](http://blog.itbear666.top:8989/#/home)
 
 - 账号：tourist
 - 密码：a123456
