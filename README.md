@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to CSKY 👋</h1>
 
-[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/logo.png" alt="logo" style="zoom: 80%;" />](http://blog.itbear666.top:8989/#/home)
+[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/logo1.png" alt="logo" style="zoom: 80%;" />](http://blog.itbear666.top:8989/#/home)
 
 
 > 2021-2022 学年冬季学期《Java程序设计(实践)》大作业 --->>> **CSKY (CS考研，计算机考研网)**
@@ -38,7 +38,7 @@
 
 ## 考研时间线
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/image-20220301213519919.png" alt="image-20220301213519919" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/image-20220301213519919.png" alt="image-20220301213519919" />
 
 ## 考研分数线
 
@@ -59,7 +59,7 @@
 
 912、857等较为小众的试题资源没有获得(作者找不到资源...) (┭┮﹏┭┮)
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/question.png" alt="question" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/question.png" alt="question" />
 
 ## 帖子发表
 
