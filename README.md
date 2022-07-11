@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to CSKY 👋</h1>
 
-[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/logo1.png" alt="logo" style="zoom: 80%;" />](http://blog.itbear666.top:8989/#/home)
+[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/logo1.png" alt="logo"/>](http://blog.itbear666.top:8989/#/home)
 
 
 > 2021-2022 学年冬季学期《Java程序设计(实践)》大作业 --->>> **CSKY (CS考研，计算机考研网)**
@@ -184,8 +184,8 @@
 
 ## 🐶 项目存在的问题
 
-1. 用户收藏、发布过的文章没有作业面~~(懒狗)~~
+1. 用户收藏、发布过的文章没有做页面   ~~懒狗~~
 1. 后端代码可复用性很差，许多重复的操作没有写继承多态、各种Vo写了一大堆....
-2. 由于查询时使用动态查询，若查找到，则记录查找的搜索词，会将一些奇奇怪怪的关键词存入数据库
+2. 由于查询时使用动态查询，且并没有做消抖处理。若查找到，则记录查找的搜索词，会将一些奇奇怪怪的关键词存入数据库
 3. ~~七牛云免费域名只提供三十天，由于考研真题、试题资源都存在七牛云上，所以到期后应该就访问不了了~~   （续期了）
 
